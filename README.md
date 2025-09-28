@@ -70,7 +70,7 @@ Visit 👉 http://localhost:5173
 
 
 
-📸 Screenshots (optional)
+📸 Screenshots 
 <img width="1908" height="928" alt="image" src="https://github.com/user-attachments/assets/5d1e4d7d-af8a-4f59-82be-921a3ba3ffcb" />
 <img width="1421" height="840" alt="image" src="https://github.com/user-attachments/assets/bbe41226-c6c6-4627-9c84-f9cb78e27312" />
 
